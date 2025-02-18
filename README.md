@@ -12,7 +12,7 @@ As an undergraduate, I contributed to the **Formula Student team**, assisting in
 - **TIG Welding Equipment** – Frame assembly and structural reinforcement.  
 
 
-## 🔬 **Methodology**
+##  **Methodology**
 - **Chassis Design:**  
   - Assisted in **modeling a tubular space frame** using **SolidWorks**, optimizing for **strength-to-weight ratio**.  
 - **Material Selection:**  
@@ -23,7 +23,7 @@ As an undergraduate, I contributed to the **Formula Student team**, assisting in
   - Assisted in **TIG welding and assembly of the frame**.  
 
 
-## 📊 **Key Takeaways**
+##  **Key Takeaways**
 - ✅ Gained **hands-on experience** in **automotive design and fabrication**.  
 - ✅ Developed **basic machining and welding skills** in **race car manufacturing**.  
 - ✅ Learned about **weight distribution, material selection, and chassis optimization** in high-performance vehicle design.  
